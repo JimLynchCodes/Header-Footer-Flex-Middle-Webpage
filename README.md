@@ -9,10 +9,10 @@ This is useful for sites that have a small header and footer and need the middle
 Try it out here: https://jimtheman.github.io/Header-Footer-Flex-Middle-Webpage/
  
 Desktop screenshot:
-<img src="./Jims-flex-screenshot-desktop.png alt="desktop screenshot" style="width: 140px;"/>
+<img src="./Jims-flex-screenshot-desktop.png" alt="desktop screenshot" style="width: 140px;"/>
 
 Phone screenshot:
-<img src="./Jims-flex-screenshot-phone.png alt="phone screenshot" style="width: 140px;"/>
+<img src="./Jims-flex-screenshot-phone.png" alt="phone screenshot" style="width: 140px;"/>
 
 ## How I did it
 
