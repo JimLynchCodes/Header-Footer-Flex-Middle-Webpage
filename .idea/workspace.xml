@@ -37,12 +37,26 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="238">
-                <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+              <first_editor relative-caret-position="187">
+                <caret line="11" column="86" lean-forward="false" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
                 <folding />
               </first_editor>
               <second_editor />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Jims-flex-screenshot-phone.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Jims-flex-screenshot-phone.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Jims-flex-screenshot-desktop.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Jims-flex-screenshot-desktop.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -210,12 +224,12 @@
       <option name="presentableId" value="Default" />
       <updated>1519706445298</updated>
       <workItem from="1519706447500" duration="1073000" />
-      <workItem from="1522376030631" duration="863000" />
+      <workItem from="1522376030631" duration="990000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1936000" />
+    <option name="totallyTimeSpent" value="2063000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="311" y="64" width="1244" height="877" extended-state="0" />
@@ -285,11 +299,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Jims-flex-screenshot-desktop.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jims-flex-screenshot-phone.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="238">
-            <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="86" lean-forward="false" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
             <folding />
           </first_editor>
           <second_editor />
