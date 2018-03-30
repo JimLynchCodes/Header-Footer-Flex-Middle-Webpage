@@ -2,4 +2,29 @@
 
 An example of a common layout for a web page or web app that leverages flex positioning.
 
-This is useful for sites that have a small header and footer and need the middle section to stretchto fill the remaining space. With older css methods it has been historically pretty difficult to line everything up perfectly and have the context extend the full height or the page, no more and no less. However, with some flex position this becomes a breeze. 
+## Why?
+This is useful for sites that have a small header and footer and need the middle section to stretch to fill the remaining space. With older css methods it has been historically pretty difficult to line everything up perfectly and have the context extend the full height or the page, no more and no less. However, with some flex position this becomes a breeze. 
+
+## Try the live demo!
+Try it out here: https://jimtheman.github.io/Header-Footer-Flex-Middle-Webpage/
+ 
+Desktop screenshot:
+<img src="Jims-flex-screenshot-desktop.png alt="desktop screenshot" style="width: 200px;"/>
+
+Phone screenshot:
+<img src="Jims-flex-screenshot-desktop.png alt="desktop screenshot" style="width: 200px;"/>
+
+## How I did it
+
+The power of flex is all in the css. Basically, "parent" elements (things that contain flexible elements) should have the the css property `display: flex;`.
+                                                                                                                                                 
+Is you want things to stack vetically as they do in the example here, you can also add `flex-direction: column;`.                        
+                                                           
+Then for he child components add the css property `flex: 1;`.
+
+That's it!
+
+## Contributing
+Feel free to open issues or pull requests if you have questions or comments! :)
+                                                                                                                       
+Stay flexin' friends!                                                                                                                       
