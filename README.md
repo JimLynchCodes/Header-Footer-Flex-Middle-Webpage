@@ -20,11 +20,12 @@ Phone screenshot:
 
 The power of flex is all in the css. Basically, "parent" elements (things that contain flexible elements) should have the the css property `display: flex;`.
                                                                                                                                                  
-Is you want things to stack vetically as they do in the example here, you can also add `flex-direction: column;`.                        
-                                                           
-Then for he child components add the css property `flex: 1;`.
+If you want things to stack vetically as they do in the example here, you can also add `flex-direction: column;`.                        
+                                                         
+Then for the child components add the css property `flex: 1;`.
 
-That's it!
+
+There's a lot more to flex css, but that's all that's needed to recreate this project!
 
 ## Contributing
 Feel free to open issues or pull requests if you have questions or comments! :)
